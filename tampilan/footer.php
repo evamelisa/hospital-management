@@ -7,9 +7,8 @@
         <div class="col-lg-5 col-md-12 footer-info">
           <a href="index.html" class="logo d-flex align-items-center">
             <img src="assets/img/logo.png" alt="">
-            <span>IdeKreatif</span>
+            <span>HospitalManagemet</span>
           </a>
-          <p>Aplikasi blog berbasis PHP native yang dirancang untuk memudahkan pengguna dalam membuat dan mengelola konten blog.</p>
           <div class="social-links mt-3">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -30,7 +29,7 @@
       <script>
         document.write(new Date().getFullYear());
         </script>
-        <a href="#" target="_blank" class="footer-link fw-bolder">SMKN 4 Tanjungpinang</a>.
+        <a href="#" target="_blank" class="footer-link fw-bolder">HospitalManagemet</a>.
         All rights reserved.
     </div>
   </div>
